@@ -1,9 +1,8 @@
-<h1 align="center">Cześć 👋, Jestem Fox Stack</h1>
+<h1 align="center">Cześć 👋, Jesteśmy FoxStack</h1>
 <h3 align="center">Pasjonat stack developer z Polski</h3>
 
-- 📫Skontaktuj się **oferta@foxstack.pl**
+- 📫Skontaktuj się **foxstack.pl**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
